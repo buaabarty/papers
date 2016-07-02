@@ -1,2 +1,2 @@
-# papers_i_have_read
+# papers
 brief introduction of papers that I have read recently
